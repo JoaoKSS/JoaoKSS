@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @JoaoKSS
+- 👋 Hi, I’m @JoaoKSS João Kennedy, I'm 20 years old and I'm a Computer Science student at the Instituto Federal do Norte de Minas Gerais - IFNMG.
 - 👀 I’m interested in technology and innovation
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate in software development
 - 📫 How to reach me ...
-- Olá, meu nome é João Kennedy, tenho 20 anos e sou estudante do curso de Ciência da Computação no Instituto Federal do Norte de Minas Gerais - IFNMG.
 
 
 
