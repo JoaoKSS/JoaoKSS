@@ -4,8 +4,6 @@
 - 🖥️ I'm looking to collaborate with software development
 - 📫 How to reach me ...
 
-![GitHub Stats](https://github-readme-stats.vercel.ap/api?username=JoaoKSS&show_icons=true)
-
 
 
 <!---
