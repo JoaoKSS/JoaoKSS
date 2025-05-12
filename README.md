@@ -50,7 +50,7 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 
 ## 📊 Meu gráfico de atividade
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=JoaoKSS&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoaoKSS&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
