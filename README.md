@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre Mim
-Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas Gerais (IFNMG), com ênfase em desenvolvimento de soluções que fazem a diferença. Apaixonado por tecnologia, inovação e boas práticas de código.
+Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas Gerais (IFNMG), com ênfase em desenvolvimento de soluções que fazem a diferença. Apaixonado por tecnologia, inovação e boas práticas de programação.
 
 ---
 
