@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Kennedy!
 
-[![LinkedIn](https://img.shields.io/badge/-João%20Kennedy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](www.linkedin.com/in/joão-k-4372a9187)
+[![LinkedIn](https://img.shields.io/badge/-João%20Kennedy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-k-4372a9187)](https://www.linkedin.com/in/joão-k-4372a9187)
 [![GitHub followers](https://img.shields.io/github/followers/JoaoKSS?label=Seguidores&style=social)](https://github.com/JoaoKSS)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&layout=compact&theme=tokyonight)](https://github.com/JoaoKSS)
 
@@ -31,20 +31,27 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 
 ---
 
-<!-- ## 📌 Projetos em destaque
+<!--## 📌 Projetos em destaque
 <p align="center">
-  <a href="https://github.com/JoaoKSS/SEU-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoKSS&repo=SEU-REPO-1&theme=tokyonight" alt="SEU-REPO-1" />
+  <a href="https://github.com/JoaoKSS/algoritmos-c">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoKSS&repo=algoritmos-c&theme=tokyonight" alt="algoritmos-c" />
   </a>
-  <a href="https://github.com/JoaoKSS/SEU-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoKSS&repo=SEU-REPO-2&theme=tokyonight" alt="SEU-REPO-2" />
+  <a href="https://github.com/JoaoKSS/java-projeto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoKSS&repo=java-projeto&theme=tokyonight" alt="java-projeto" />
   </a>
-</p> -->
+</p>
+
+---
+-->
+## ⌛ Aprendendo
+<img src="https://img.shields.io/badge/Aprendendo-C++-blue?style=for-the-badge&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/Aprendendo-React-blue?style=for-the-badge&logo=react" />
 
 ---
 
 ## 📈 Minhas Estatísticas no GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKSS&show_icons=true&theme=tokyonight)](https://github.com/JoaoKSS)
+<!--[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoKSS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
 
 ---
 
@@ -52,3 +59,9 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 - E-mail: joaokennedy208@gmail.com  
 - LinkedIn: www.linkedin.com/in/joão-k-4372a9187
 - GitHub: https://github.com/JoaoKSS
+
+
+
+
+
+
