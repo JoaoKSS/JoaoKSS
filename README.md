@@ -59,9 +59,3 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 - E-mail: joaokennedy208@gmail.com  
 - LinkedIn: www.linkedin.com/in/joão-k-4372a9187
 - GitHub: https://github.com/JoaoKSS
-
-
-
-
-
-
