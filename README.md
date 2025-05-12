@@ -1,8 +1,3 @@
-<!-- Banner personalizado -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/SEU-ID/banner.svg" alt="Banner" width="800"/>
-</p>
-
 # 👋 Olá, eu sou o João Kennedy!
 
 [![LinkedIn](https://img.shields.io/badge/-João%20Kennedy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](www.linkedin.com/in/joão-k-4372a9187)
