@@ -4,7 +4,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/JoaoKSS?label=Seguidores&style=social)](https://github.com/JoaoKSS)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&layout=compact&theme=tokyonight)](https://github.com/JoaoKSS)
 [![Visitor Count](https://profile-counter.glitch.me/JoaoKSS/count.svg)](https://github.com/JoaoKSS)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoKSS&theme=tokyonight)](https://github.com/JoaoKSS)
 
 ---
 
