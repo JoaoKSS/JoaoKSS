@@ -48,13 +48,6 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 
 ---
 
-## 📊 Meu gráfico de atividade
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoaoKSS&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ## 📫 Como me encontrar
 - E-mail: joaokennedy208@gmail.com  
 - LinkedIn: www.linkedin.com/in/joão-k-4372a9187
