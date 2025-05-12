@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-João%20Kennedy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](www.linkedin.com/in/joão-k-4372a9187)
 [![GitHub followers](https://img.shields.io/github/followers/JoaoKSS?label=Seguidores&style=social)](https://github.com/JoaoKSS)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&layout=compact&theme=tokyonight)](https://github.com/JoaoKSS)
-[![Visitor Count](https://profile-counter.glitch.me/JoaoKSS/count.svg)](https://github.com/JoaoKSS)  
 
 ---
 
