@@ -51,7 +51,7 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 ---
 
 ## 📈 Minhas Estatísticas no GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKSS&show_icons=true&theme=tokyonight)](https://github.com/JoaoKSS)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKSS&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/JoaoKSS)
 <!--[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoKSS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
 
 ---
