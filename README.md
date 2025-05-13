@@ -22,7 +22,7 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Linguagens e Tecnologias
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
