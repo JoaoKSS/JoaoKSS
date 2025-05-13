@@ -38,6 +38,7 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 
 ---
 
