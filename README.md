@@ -52,7 +52,7 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 -->
 ## ⌛ Aprendendo
 <img src="https://img.shields.io/badge/Aprendendo-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Aprendendo-Yii-black?style=for-the-badge&logo=yii&logoColor=white" />
+<img src="https://img.shields.io/badge/Aprendendo-Yii2-black?style=for-the-badge&logo=yii&logoColor=white" />
 
 ---
 
