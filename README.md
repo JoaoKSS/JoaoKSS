@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Kennedy!
 
-[![LinkedIn](https://img.shields.io/badge/-João%20Kennedy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-k-4372a9187)](https://www.linkedin.com/in/joão-k-4372a9187)
+[![LinkedIn](https://img.shields.io/badge/-João%20Kennedy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-k-4372a9187&cacheSeconds=900)](https://www.linkedin.com/in/joão-k-4372a9187)
 [![GitHub followers](https://img.shields.io/github/followers/JoaoKSS?label=Seguidores&style=social&cacheSeconds=900)](https://github.com/JoaoKSS)
 [![GitHub stars](https://img.shields.io/github/stars/JoaoKSS?style=social&cacheSeconds=900)](https://github.com/JoaoKSS?tab=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&layout=compact&theme=tokyonight&cache_seconds=900&langs_count=10)](https://github.com/JoaoKSS)
