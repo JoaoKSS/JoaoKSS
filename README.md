@@ -18,7 +18,6 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 - Interatividade e funcionalidades com JavaScript
 - Modelagem e gerenciamento de bancos de dados (MySQL, PostgreSQL, Oracle)
 - Versionamento de código com Git
-- Participação em projetos de código aberto
 
 ---
 
