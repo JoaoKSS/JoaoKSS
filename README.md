@@ -1,13 +1,12 @@
 # 👋 Olá, eu sou o João Kennedy!
 
-[![LinkedIn](https://img.shields.io/badge/-João%20Kennedy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-k-4372a9187&cacheSeconds=300)](https://www.linkedin.com/in/joão-k-4372a9187)
-[![GitHub followers](https://img.shields.io/github/followers/JoaoKSS?label=Seguidores&style=social&cacheSeconds=300)](https://github.com/JoaoKSS)
-[![GitHub stars](https://img.shields.io/github/stars/JoaoKSS?style=social&cacheSeconds=300)](https://github.com/JoaoKSS?tab=stars)
+<p align="left">
+  <a href="https://www.linkedin.com/in/joão-k-4372a9187"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/JoaoKSS?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/github/stars/JoaoKSS?style=social" />
+</p>
 
-## 🚀 Sobre Mim
-Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas Gerais (IFNMG), com ênfase em desenvolvimento de soluções que fazem a diferença. Apaixonado por tecnologia, inovação e boas práticas de programação.
-
----
+Sou estudante de Ciência da Computação no **IFNMG**, com foco em desenvolvimento de soluções eficientes. Apaixonado por tecnologia, inovação e arquitetura de software.
 
 ## 💼 O que eu faço?
 - Programação em C, C++, Java e Python
@@ -15,8 +14,6 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 - Interatividade e funcionalidades com JavaScript
 - Modelagem e gerenciamento de bancos de dados (MySQL, PostgreSQL, Oracle)
 - Versionamento de código com Git
-
----
 
 ## 🛠️ Linguagens e Tecnologias
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
@@ -36,8 +33,6 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 
----
-
 <!--## 📌 Projetos em destaque
 <p align="center">
   <a href="https://github.com/JoaoKSS/algoritmos-c">
@@ -48,13 +43,10 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
   </a>
 </p>
 
----
 -->
 ## ⌛ Aprendendo
 <img src="https://img.shields.io/badge/Aprendendo-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Aprendendo-Yii2-black?style=for-the-badge&logo=yii&logoColor=white" />
-
----
 
 ## 📈 Minhas Estatísticas no GitHub
 <p align="center">
@@ -65,9 +57,8 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoKSS&theme=tokyonight&locale=pt-br&cache_seconds=1800" />
 </p>
 
----
-
 ## 📫 Como me encontrar
-- E-mail: joaokennedy208@gmail.com  
-- LinkedIn: www.linkedin.com/in/joão-k-4372a9187
-- GitHub: https://github.com/JoaoKSS
+
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaokennedy208@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-k-4372a9187)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoKSS)
