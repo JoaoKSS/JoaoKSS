@@ -57,7 +57,7 @@ Sou estudante de Ciência da Computação no **IFNMG**, com foco em desenvolvime
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoKSS&theme=tokyonight&locale=pt-br&cache_seconds=1800" />
 </p>
 
-## 📫 Como me encontrar
+## 🔗 Como me encontrar
 
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaokennedy208@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-k-4372a9187)
