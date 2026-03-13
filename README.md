@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-João%20Kennedy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-k-4372a9187&cacheSeconds=300)](https://www.linkedin.com/in/joão-k-4372a9187)
 [![GitHub followers](https://img.shields.io/github/followers/JoaoKSS?label=Seguidores&style=social&cacheSeconds=300)](https://github.com/JoaoKSS)
 [![GitHub stars](https://img.shields.io/github/stars/JoaoKSS?style=social&cacheSeconds=300)](https://github.com/JoaoKSS?tab=stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&layout=compact&theme=tokyonight&cache_seconds=300&langs_count=10)](https://github.com/JoaoKSS)
-
----
 
 ## 🚀 Sobre Mim
 Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas Gerais (IFNMG), com ênfase em desenvolvimento de soluções que fazem a diferença. Apaixonado por tecnologia, inovação e boas práticas de programação.
@@ -60,8 +57,13 @@ Sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas
 ---
 
 ## 📈 Minhas Estatísticas no GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKSS&show_icons=true&theme=tokyonight&cache_seconds=300)](https://github.com/JoaoKSS)
-<!--[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoKSS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoKSS&theme=tokyonight&show_icons=true&locale=pt-br&cache_seconds=1800" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&theme=tokyonight&layout=compact&locale=pt-br&cache_seconds=1800" height="175px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoKSS&theme=tokyonight&locale=pt-br&cache_seconds=1800" />
+</p>
 
 ---
 
