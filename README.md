@@ -58,10 +58,10 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
 
 <img height="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
 <img height="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;
-<img height="40" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>&nbsp;
-<img height="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;
+<img height="40" title="Oracle" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/>&nbsp;
+<img height="40" title="Docker" src="https://cdn.simpleicons.org/docker/2496ED"/>&nbsp;
 <img height="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;
-<img height="40" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp;
+<img height="40" title="GitHub" src="https://cdn.simpleicons.org/github/white"/>&nbsp;
 <img height="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;
 <img height="40" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
@@ -81,7 +81,7 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8&cache_seconds=1800" />
 </div>
 
 ---
