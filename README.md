@@ -98,9 +98,9 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoKSS/JoaoKSS/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoKSS/JoaoKSS/output/snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/JoaoKSS/JoaoKSS/output/snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoKSS/JoaoKSS/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoKSS/JoaoKSS/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoKSS/JoaoKSS/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
