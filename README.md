@@ -94,14 +94,6 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
 
 ---
 
-## 📊 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoKSS/JoaoKSS/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Animated Profile Contrib"/>
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
