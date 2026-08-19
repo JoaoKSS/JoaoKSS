@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/JoaoKSS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+IFNMG+%F0%9F%8E%93;Backend+%26+Frontend+Developer+%F0%9F%92%BB;Desenvolvedor+no+NDTI+%F0%9F%9A%80;Apaixonado+por+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+IFNMG+%F0%9F%8E%93;Backend+%26+Frontend+Developer+%F0%9F%92%BB;Desenvolvedor+no+NDTI+%F0%9F%9A%80;Apaixonado+por+tecnologia+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
