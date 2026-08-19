@@ -62,14 +62,13 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
 <img height="40" title="Docker" src="https://cdn.simpleicons.org/docker/2496ED"/>&nbsp;
 <img height="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;
 <img height="40" title="GitHub" src="https://cdn.simpleicons.org/github/white"/>&nbsp;
+<img height="40" title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>&nbsp;
 <img height="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;
 <img height="40" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 </div>
 
 ---
-
-
 
 ## 📈 Atividade
 
