@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=160&section=header&text=Jo%C3%A3o%20Kennedy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=160&section=header&text=Jo%C3%A3o%20Kennedy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
 
@@ -71,21 +71,6 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
 
 
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![Seguidores](https://img.shields.io/github/followers/JoaoKSS?style=flat-square&color=58A6FF&label=Seguidores&logo=github&logoColor=white)
-![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJoaoKSS&query=public_repos&style=flat-square&color=1f6feb&label=Reposit%C3%B3rios+p%C3%BAblicos&logo=github&logoColor=white)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKSS&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8&cache_seconds=1800" />
-</div>
-
----
-
 ## 📈 Atividade
 
 <div align="center">
@@ -104,4 +89,4 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
   </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=160&section=footer"/>
