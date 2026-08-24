@@ -78,7 +78,7 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
 
 ---
 
-## 🐍 Contribuições
+## 📊 Contribuições
 
 <div align="center">
   <picture>
