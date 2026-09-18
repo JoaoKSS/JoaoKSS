@@ -28,7 +28,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: theme=tokyo-night&hide_border=true&area=true
