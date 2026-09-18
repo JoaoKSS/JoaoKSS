@@ -73,7 +73,7 @@ Tenho forte base em fundamentos de computação (algoritmos, estruturas de dados
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoKSS&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://raw.githubusercontent.com/JoaoKSS/JoaoKSS/output/activity-graph.svg" width="95%"/>
 </div>
 
 ---

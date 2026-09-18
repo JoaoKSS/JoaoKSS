@@ -1,9 +1,9 @@
-name: Generate Snake Animation
+name: Generate Snake and Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Todo dia à meia-noite UTC
-  workflow_dispatch:        # Permite rodar manualmente pela aba Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -27,7 +27,14 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=tokyo-night&hide_border=true&area=true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
